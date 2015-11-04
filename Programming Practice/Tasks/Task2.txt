@@ -1,0 +1,9 @@
+MEDIUM
+
+Input the last 10 scores produced by the winning team during the finals of the last 10 world and find the mean, median, and mode of the scores
+
+Step 1: input all ten scores
+Step 2: use a function to find the mean
+Step 3: use a function to find the mode
+Step 4: use a function to find the median
+Step 5: print out the mean, median, and mode

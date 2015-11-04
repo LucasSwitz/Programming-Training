@@ -1,0 +1,10 @@
+MEDIUM
+
+Print the number of words in President Henry Harrison's Inaugural Address
+
+Step 1: read in a text file with an the speech
+Step 2: send the speech to a function that keeps track of the words
+
+HARD ALTERNATIVE
+
+Print the number of times every letter in the alphabet appears in President Henry Harrison's Inaugural Address

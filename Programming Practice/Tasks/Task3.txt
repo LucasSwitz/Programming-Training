@@ -1,0 +1,5 @@
+HARD
+
+input the values of 3 sides to a triangle and print out the corresponding angles
+
+Step 1: The title says hard. I'm not giving you the step by step :p

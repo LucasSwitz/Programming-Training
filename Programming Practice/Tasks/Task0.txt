@@ -1,0 +1,7 @@
+EASY
+
+Create a program that has converts degrees Fahrenheit to degrees Celsius
+
+Step 1: get input value
+Step 2: Send value to conversion function
+Step 3: print out the celsius value

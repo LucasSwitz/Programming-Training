@@ -1,0 +1,8 @@
+MEDIUM
+
+Use your degree converter to tell someone if it is too cold to go outside
+
+Step 1: if the temperature is bellow freezing print out "Its a little chilly"
+Step 2: if the temperature is greater than or equal to waters boiling point print "the oceans are steaming"
+Step 3: if the temperature is bellow absolute 0 print "We all dead X("
+Step 4: if it is none of these print "its nice out today"
